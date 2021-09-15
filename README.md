@@ -4,10 +4,10 @@
 
 ## I'm a developer, a cautious cybersec, a scholar and an aspiring Traveller!!
 
-- 🏂🏻 I'm unequivocally trying do my own thing on travel vlog channel space and software development entrepreneurship
-- 🧑🏻‍💻 Cuurently soaking in all IAM related knowledge and further focusing on microservices optimized IAM development
-- 🥅 Too much goals, can't keep the count,
-- ⚡ A secret/ not-so-secret fact: I love to play the piano and guitar
+- 🏂🏻  I'm unequivocally trying do my own thing on travel vlog channel space and software development entrepreneurship
+- 🧑🏻‍💻  Curently soaking in all IAM related knowledge and further focusing on microservices optimized IAM development
+- 🥅  Too much goals, can't keep the count,
+- ⚡  A secret/ not-so-secret fact: I love to play the piano and guitar
 
 ### Connect with me:
 
