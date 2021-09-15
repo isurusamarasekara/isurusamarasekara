@@ -12,9 +12,8 @@
 ### 🤙🏼 Connect with me:
 <p>
     <a href="https://tasiee.com"><img src="https://img.icons8.com/external-justicon-lineal-color-justicon/64/000000/external-website-responsive-web-design-justicon-lineal-color-justicon-1.png" alt="Website"/></a>
-	<a href="https://lk.linkedin.com/in/isurudananjayasamarasekara"><img src="https://img.icons8.com/nolan/64/linkedin.png" alt="LinkedIn"/></a>
+	<a href="https://lk.linkedin.com/in/isurudananjayasamarasekara"><img src="https://img.icons8.com/dusk/48/000000/linkedin.png" alt="LinkedIn"/></a>
 </p>
-<br />
 
 ### Languages and Tools:
 <img align="left" alt="Java" width="26px" src="https://img.icons8.com/nolan/64/java-coffee-cup-logo.png" />
