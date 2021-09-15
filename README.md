@@ -13,11 +13,13 @@
 [<img align="left" alt="tasiee.com" width="26px" src="https://img.icons8.com/external-justicon-lineal-color-justicon/64/000000/external-coding-responsive-web-design-justicon-lineal-color-justicon-3.png" />][website]
 [<img align="left" alt="tasiee.com" width="26px" src="https://img.icons8.com/dusk/48/000000/linkedin.png" />][linkedin]
 
+<br/>
+<img src=""/>
 ### Languages and Tools:
-<img align="left" alt="Java" width="26px" src="https://img.icons8.com/nolan/64/java-coffee-cup-logo.png" />
+<img align="left" alt="Java" width="26px" src="https://img.icons8.com/dusk/64/000000/java-coffee-cup-logo.png" />
 <img align="left" alt="Spring" width="26px" src="https://img.icons8.com/color/48/000000/spring-logo.png" />
-<img align="left" alt="Python" width="26px" src="https://img.icons8.com/nolan/64/python.png" />
-<img align="left" alt="SQL" width="26px" src="https://img.icons8.com/nolan/64/sql.png" />
+<img align="left" alt="Python" width="26px" src="https://img.icons8.com/dusk/64/000000/python.png" />
+<img align="left" alt="SQL" width="26px" src="https://img.icons8.com/external-wanicon-two-tone-wanicon/64/000000/external-sql-server-big-data-wanicon-two-tone-wanicon.png" />
 <img align="left" alt="MySql" width="26px" src="https://img.icons8.com/nolan/64/mysql.png" />
 <img align="left" alt="MongoDB" width="26px" src="https://img.icons8.com/color/48/000000/mongodb.png" />
 <img align="left" alt="JavaScript" width="26px" src="https://img.icons8.com/nolan/64/javascript.png" />
