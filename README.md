@@ -9,7 +9,7 @@
 - 🥅  Too much goals 🎯, can't keep the count,
 - ⚡  A secret/ not-so-secret fact: I love to play the piano 🎹 and guitar 🎸 🎼.
 
-<br /> <br />
+<br /> <br/>
 
 ## 🤙🏼 Connect with me:
 [<img align="left" alt="tasiee.com" width="26px" src="https://img.icons8.com/external-justicon-lineal-color-justicon/64/000000/external-coding-responsive-web-design-justicon-lineal-color-justicon-3.png" />][website]
