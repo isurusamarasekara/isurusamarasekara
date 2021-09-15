@@ -14,18 +14,18 @@
 [<img align="left" alt="tasiee.com" width="26px" src="https://img.icons8.com/dusk/48/000000/linkedin.png" />][linkedin]
 
 <br/>
-<img src=""/>
+
 ### Languages and Tools:
 <img align="left" alt="Java" width="26px" src="https://img.icons8.com/dusk/64/000000/java-coffee-cup-logo.png" />
 <img align="left" alt="Spring" width="26px" src="https://img.icons8.com/color/48/000000/spring-logo.png" />
 <img align="left" alt="Python" width="26px" src="https://img.icons8.com/dusk/64/000000/python.png" />
 <img align="left" alt="SQL" width="26px" src="https://img.icons8.com/external-wanicon-two-tone-wanicon/64/000000/external-sql-server-big-data-wanicon-two-tone-wanicon.png" />
-<img align="left" alt="MySql" width="26px" src="https://img.icons8.com/nolan/64/mysql.png" />
+<img align="left" alt="MySql" width="26px" src="https://img.icons8.com/color/48/000000/mysql-logo.png" />
 <img align="left" alt="MongoDB" width="26px" src="https://img.icons8.com/color/48/000000/mongodb.png" />
-<img align="left" alt="JavaScript" width="26px" src="https://img.icons8.com/nolan/64/javascript.png" />
-<img align="left" alt="HTML" width="26px" src="https://img.icons8.com/nolan/64/html.png" />
-<img align="left" alt="CSS" width="26px" src="https://img.icons8.com/nolan/64/css-filetype.png" />
-<img align="left" alt="Raspberry Pi" width="26px" src="https://img.icons8.com/nolan/64/raspberry-pi.png" />
+<img align="left" alt="JavaScript" width="26px" src="https://img.icons8.com/dusk/64/000000/javascript-logo.png" />
+<img align="left" alt="HTML" width="26px" src="https://img.icons8.com/color/48/000000/html-5--v1.png" />
+<img align="left" alt="CSS" width="26px" src="https://img.icons8.com/dusk/64/000000/css3.png" />
+<img align="left" alt="Raspberry Pi" width="26px" src="https://img.icons8.com/color/48/000000/raspberry-pi.png" />
 <img align="left" alt="Tensorflow" width="26px" src="https://img.icons8.com/color/48/000000/tensorflow.png" />
 <br />
 
