@@ -4,18 +4,18 @@
 
 ## I'm a developer 🧑🏻‍💻, a cautious cybersec 🕵🏻‍♂️, a scholar 👨🏻‍🎓 and an aspiring Traveller 🧳🏕⛰!!
 
-- 🏂🏻  I'm unequivocally trying do my own thing on travel vlog channel space and software development entrepreneurship
-- 🧑🏻‍💻  Currently soaking in all IAM related knowledge and further focusing on microservices optimized IAM development
+- 🏂🏻  I'm unequivocally trying do my own thing on travel vlog channel space and software development entrepreneurship,
+- 🧑🏻‍💻  Currently soaking in all IAM related knowledge and further focusing on microservices optimized IAM development,
 - 🥅  Too much goals 🎯, can't keep the count,
-- ⚡  A secret/ not-so-secret fact: I love to play the piano 🎹 and guitar 🎸 🎼
+- ⚡  A secret/ not-so-secret fact: I love to play the piano 🎹 and guitar 🎸 🎼.
 
-### 🤙🏼 Connect with me:
+## 🤙🏼 Connect with me:
 [<img align="left" alt="tasiee.com" width="26px" src="https://img.icons8.com/external-justicon-lineal-color-justicon/64/000000/external-coding-responsive-web-design-justicon-lineal-color-justicon-3.png" />][website]
 [<img align="left" alt="tasiee.com" width="26px" src="https://img.icons8.com/dusk/48/000000/linkedin.png" />][linkedin]
 
-<br/>
+<br/><br/>
 
-### Languages and Tools:
+## Languages and Tools:
 <img align="left" alt="Java" width="26px" src="https://img.icons8.com/dusk/64/000000/java-coffee-cup-logo.png" />
 <img align="left" alt="Spring" width="26px" src="https://img.icons8.com/color/48/000000/spring-logo.png" />
 <img align="left" alt="Python" width="26px" src="https://img.icons8.com/dusk/64/000000/python.png" />
@@ -27,7 +27,8 @@
 <img align="left" alt="CSS" width="26px" src="https://img.icons8.com/dusk/64/000000/css3.png" />
 <img align="left" alt="Raspberry Pi" width="26px" src="https://img.icons8.com/color/48/000000/raspberry-pi.png" />
 <img align="left" alt="Tensorflow" width="26px" src="https://img.icons8.com/color/48/000000/tensorflow.png" />
-<br />
+
+<br /><br/>
 
 ---
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=isurusamarasekara&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
