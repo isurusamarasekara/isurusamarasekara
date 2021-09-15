@@ -11,7 +11,7 @@
 
 ### 🤙🏼 Connect with me:
 <p>
-    <a href="https://tasiee.com"><img src="https://img.icons8.com/external-justicon-lineal-color-justicon/64/000000/external-coding-responsive-web-design-justicon-lineal-color-justicon-3.png" alt="Website"/></a>
+    [![Website](https://img.shields.io/website?label=codeSTACKr.com&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://codestackr.com)
 	<a href="https://lk.linkedin.com/in/isurudananjayasamarasekara"><img src="https://img.icons8.com/dusk/48/000000/linkedin.png" alt="LinkedIn"/></a>
 </p>
 
