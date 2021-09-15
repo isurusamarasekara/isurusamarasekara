@@ -1,7 +1,6 @@
-### Hi there, I'm Jesse - aka [Karawalaya][https://www.tasiee.com/]  🙌 🙃
+### Hi there, I'm Isuru - aka [Karawalaya][website]  🙌 🙃
 
-[![Website](https://img.shields.io/website?label=codeSTACKr.com&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://codestackr.com)
-[![Twitter Follow](https://img.shields.io/twitter/follow/codeSTACKr?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FcodeSTACKr&screen_name=codeSTACKr)
+[![Website](https://img.shields.io/website?label=tasiee.com&style=for-the-badge&url=https%3A%2F%2Ftasiee.com)](https://www.tasiee.com/)
 
 ## I'm a developer, a cautious cybersec, a scholar and an aspiring Traveller!!
 
@@ -12,7 +11,7 @@
 
 ### Connect with me:
 
-[<img align="left" alt="codeSTACKr.com" width="22px" src="https://img.icons8.com/external-justicon-lineal-color-justicon/64/000000/external-website-responsive-web-design-justicon-lineal-color-justicon-1.png" />][https://www.tasiee.com/]
+[<img align="left" alt="codeSTACKr.com" width="22px" src="https://img.icons8.com/external-justicon-lineal-color-justicon/64/000000/external-website-responsive-web-design-justicon-lineal-color-justicon-1.png" />][website]
 [<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://img.icons8.com/nolan/64/linkedin.png" />][https://lk.linkedin.com/in/isurudananjayasamarasekara]
 
 <br />
@@ -81,5 +80,5 @@
 
 </details>
 
-[website]: https://www.tasiee.com/
+[website]: https://www.tasiee.com
 [linkedin]: https://lk.linkedin.com/in/isurudananjayasamarasekara
