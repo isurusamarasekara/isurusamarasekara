@@ -1,19 +1,22 @@
-### Hi there, I'm Isuru - aka [Karawalaya][website]  🙌 🙃
+### Hi there 🙌, I'm Isuru - aka [Karawalaya][website] 🙃
 
 [![Website](https://img.shields.io/website?label=tasiee.com&style=for-the-badge&url=https%3A%2F%2Ftasiee.com)](https://www.tasiee.com/)
 
-## I'm a developer, a cautious cybersec, a scholar and an aspiring Traveller!!
+## I'm a developer 🧑🏻‍💻, a cautious cybersec 🕵🏻‍♂️, a scholar 👨🏻‍🎓 and an aspiring Traveller 🧳🏕⛰!!
 
 - 🏂🏻  I'm unequivocally trying do my own thing on travel vlog channel space and software development entrepreneurship
-- 🧑🏻‍💻  Curently soaking in all IAM related knowledge and further focusing on microservices optimized IAM development
-- 🥅  Too much goals, can't keep the count,
-- ⚡  A secret/ not-so-secret fact: I love to play the piano and guitar
+- 🧑🏻‍💻  Currently soaking in all IAM related knowledge and further focusing on microservices optimized IAM development
+- 🥅  Too much goals 🎯, can't keep the count,
+- ⚡  A secret/ not-so-secret fact: I love to play the piano 🎹 and guitar 🎸 🎼
 
-### Connect with me:
+### 🤙🏼 Connect with me:
 
-[<img align="left" alt="codeSTACKr.com" width="22px" src="https://img.icons8.com/external-justicon-lineal-color-justicon/64/000000/external-website-responsive-web-design-justicon-lineal-color-justicon-1.png" />][website]
+[<img align="left" alt="codeSTACKr.com" width="22px" src="" />][website]
 [<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://img.icons8.com/nolan/64/linkedin.png" />][https://lk.linkedin.com/in/isurudananjayasamarasekara]
-
+<p>
+    <a href="https://tasiee.com"><img src="https://img.icons8.com/external-justicon-lineal-color-justicon/64/000000/external-website-responsive-web-design-justicon-lineal-color-justicon-1.png" alt="Website"/></a>
+	<a href="https://lk.linkedin.com/in/isurudananjayasamarasekara"><img src="https://img.icons8.com/nolan/64/linkedin.png" alt="LinkedIn"/></a>
+</p>
 <br />
 
 ### Languages and Tools:
