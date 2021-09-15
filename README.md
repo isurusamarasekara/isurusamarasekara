@@ -10,8 +10,9 @@
 - ⚡  A secret/ not-so-secret fact: I love to play the piano 🎹 and guitar 🎸 🎼
 
 ### 🤙🏼 Connect with me:
+[![Website](https://img.shields.io/website?label=codeSTACKr.com&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://codestackr.com)
 <p>
-    [![Website](https://img.shields.io/website?label=codeSTACKr.com&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://codestackr.com)
+    <a href="https://tasiee.com"><img src="https://img.icons8.com/external-justicon-lineal-color-justicon/64/000000/external-coding-responsive-web-design-justicon-lineal-color-justicon-3.png" alt="Website"/></a>
 	<a href="https://lk.linkedin.com/in/isurudananjayasamarasekara"><img src="https://img.icons8.com/dusk/48/000000/linkedin.png" alt="LinkedIn"/></a>
 </p>
 
