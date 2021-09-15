@@ -30,11 +30,13 @@
 <br />
 
 ---
+<details>
+  <summary>:zap: Recent GitHub Activity</summary>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=isurusamarasekara&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=isurusamarasekara&count_private=true&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 <p><img src="https://github-readme-streak-stats.herokuapp.com/?user=isurusamarasekara&theme=algolia" alt="isurusamarasekara"  /></p>
-
+</details>
 <br />
 
 ---
@@ -55,7 +57,7 @@
 - [Things to Know About Cross-Site Request Forgery](https://isurusamarasekara.medium.com/things-to-know-about-cross-site-request-forgery-fe043ad05c2f)
 <!-- BLOG-POST-LIST:END -->
 
-➡️ [more blog posts...](https://isurusamarasekara.medium.com/)
+➡️  [more blog posts...](https://isurusamarasekara.medium.com/)
 
 ---
 
