@@ -35,6 +35,10 @@
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=isurusamarasekara&count_private=true&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
 
+
+
+<p><img src="https://github-readme-streak-stats.herokuapp.com/?user=isurusamarasekara&theme=algolia" alt="isurusamarasekara"  /></p>
+
 <br />
 
 ---
