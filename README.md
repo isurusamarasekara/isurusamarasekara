@@ -9,13 +9,13 @@
 - 🥅  Too much goals 🎯, can't keep the count,
 - ⚡  A secret/ not-so-secret fact: I love to play the piano 🎹 and guitar 🎸 🎼.
 
-<br/><br/><br/><br/>
+<br/><br/>
 
 ## 🤙🏼 Connect with me:
 [<img align="left" alt="tasiee.com" width="26px" src="https://img.icons8.com/external-justicon-lineal-color-justicon/64/000000/external-coding-responsive-web-design-justicon-lineal-color-justicon-3.png" />][website]
 [<img align="left" alt="tasiee.com" width="26px" src="https://img.icons8.com/dusk/48/000000/linkedin.png" />][linkedin]
 
-<br/><br/><br/><br/>
+<br/><br/>
 
 ## Languages and Tools:
 <img align="left" alt="Java" width="26px" src="https://img.icons8.com/dusk/64/000000/java-coffee-cup-logo.png" />
@@ -30,7 +30,7 @@
 <img align="left" alt="Raspberry Pi" width="26px" src="https://img.icons8.com/color/48/000000/raspberry-pi.png" />
 <img align="left" alt="Tensorflow" width="26px" src="https://img.icons8.com/color/48/000000/tensorflow.png" />
 
-<br /><br/><br/><br/>
+<br /><br/>
 
 ---
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=isurusamarasekara&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
