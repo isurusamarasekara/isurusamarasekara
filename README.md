@@ -7,7 +7,7 @@
 - 🏂🏻  I'm unequivocally trying do my own thing on travel vlog channel space and software development entrepreneurship,
 - 🧑🏻‍💻  Currently soaking in all IAM related knowledge and further focusing on microservices optimized IAM development,
 - 🥅  Too much goals 🎯, can't keep the count,
-- ⚡  A secret/ not-so-secret fact: I love to play the piano 🎹 and guitar 🎸 🎼.
+- ⚡  A secret/ not-so-secret fact: ~~I love to play the piano 🎹 and guitar 🎸 🎼 ~~.
 
 <br />
 
