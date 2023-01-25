@@ -10,8 +10,8 @@
   * 📘 IAM related knowledge with WSO2 Identity Server,
   * 📙 Kubernetes,
   * 📗 Machine Learning,
-- 🧑‍💼 Currently a software engineer at [**WSO2**](https://wso2.com),
-  * specializing in IAM domain via its CIAM product [Identity Server](https://is.docs.wso2.com/en/latest/),
+- 🧑‍💼 Currently a software engineer at [**WSO2**][wso2],
+  * specializing in IAM domain via its CIAM product [Identity Server][wso2.is.docs],
 - 🤙 Let's connect,
   * 📥 [Email](#),
   * 🤵‍♂️ [LinkedIn][linkedin.profile],
@@ -67,3 +67,5 @@
 [website]: https://www.isurusamarasekara.com
 [linkedin.profile]: https://lk.linkedin.com/in/isurudananjayasamarasekara
 [medium.blog]: https://isurusamarasekara.medium.com/
+[wso2]: https://wso2.com
+[wso2.is.docs]: https://is.docs.wso2.com/en/latest/
