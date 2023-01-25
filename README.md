@@ -1,8 +1,8 @@
-### Hi there 🙌, I'm Isuru - aka [Karawalaya][website] 🙃
+## Hi there 🙌, I'm Isuru - aka [Karawalaya][website] 🙃
 
 [![Website](https://img.shields.io/website?label=isurusamarasekara.com&style=for-the-badge&url=https://isurusamarasekara.com)](https://www.isurusamarasekara.com/)
 
-## I'm a developer 🧑🏻‍💻, a cautious cybersec 🕵🏻‍♂️, a scholar 👨🏻‍🎓 and an aspiring Traveller 🧳🏕⛰!!
+### I'm a developer 🧑🏻‍💻, a cautious cybersec 🕵🏻‍♂️, a scholar 👨🏻‍🎓 and an aspiring Traveller 🧳🏕⛰!!
 
 - 🏂🏻  I'm unequivocally trying do my own thing on travel vlog channel space,
   * Hope to get this done sooner than later,
@@ -12,7 +12,7 @@
   * 📗 Machine Learning,
 - 🧑‍💼 Currently a software engineer at [**WSO2**](https://wso2.com),
   * specializing in IAM domain via its CIAM product [Identity Server](https://is.docs.wso2.com/en/latest/),
-- 🖊️ Let's connect,
+- 🤙 Let's connect,
   * 📥 [Email](#),
   * 🤵‍♂️ [LinkedIn](https://lk.linkedin.com/in/isurudananjayasamarasekara),
   * 📜 [Medium](https://isurusamarasekara.medium.com/).
@@ -23,13 +23,7 @@
 
 <br />
 
-## 🤙🏼 Connect with me:
-[<img align="left" alt="tasiee.com" width="26px" src="https://img.icons8.com/external-justicon-lineal-color-justicon/64/000000/external-coding-responsive-web-design-justicon-lineal-color-justicon-3.png" />][website]
-[<img align="left" alt="tasiee.com" width="26px" src="https://img.icons8.com/dusk/48/000000/linkedin.png" />][linkedin]
-
-<br /> <br />
-
-## Languages and Tools:
+### Languages and Tools:
 <img align="left" alt="Java" width="26px" src="https://img.icons8.com/dusk/64/000000/java-coffee-cup-logo.png" />
 <img align="left" alt="Spring" width="26px" src="https://img.icons8.com/color/48/000000/spring-logo.png" />
 <img align="left" alt="Python" width="26px" src="https://img.icons8.com/dusk/64/000000/python.png" />
