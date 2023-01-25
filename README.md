@@ -1,6 +1,6 @@
 ## Hi there 🙌, I'm Isuru - aka [Karawalaya][website] 🙃
 
-**Personal Portfolio Site:** [![Website](https://img.shields.io/website?label=isurusamarasekara.com&style=for-the-badge&url=https://isurusamarasekara.com)][website]
+[![Website](https://img.shields.io/website?label=isurusamarasekara.com&style=for-the-badge&url=https://isurusamarasekara.com)][website]
 
 ### I'm a developer 🧑🏻‍💻, a cautious cybersec 🕵🏻‍♂️, a scholar 👨🏻‍🎓 and an aspiring Traveller 🧳🏕⛰!!
 
