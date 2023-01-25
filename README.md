@@ -44,6 +44,7 @@
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=isurusamarasekara&theme=algolia" alt="isurusamarasekara"/>
 
 <br />
+-->
 ---
 ### 📕 Latest Blog Posts
 
@@ -54,9 +55,7 @@
 <!-- BLOG-POST-LIST:END -->
 
 ➡️  [more blog posts...](https://isurusamarasekara.medium.com/)
-
 ---
--->
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
