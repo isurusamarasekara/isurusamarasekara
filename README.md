@@ -21,9 +21,7 @@
 - ⚡  <strike>A secret/ not-so-secret fact: I love to play the piano 🎹 and guitar 🎸 🎼 </strike>.
 -->
 
-<br />
-
-### Languages and Tools:
+#### Languages and Tools:
 <img align="left" alt="Java" width="26px" src="https://img.icons8.com/dusk/64/000000/java-coffee-cup-logo.png" />
 <img align="left" alt="Spring" width="26px" src="https://img.icons8.com/color/48/000000/spring-logo.png" />
 <img align="left" alt="Python" width="26px" src="https://img.icons8.com/dusk/64/000000/python.png" />
@@ -46,17 +44,7 @@
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=isurusamarasekara&theme=algolia" alt="isurusamarasekara"/>
 
 <br />
-
 ---
--->
-### 📺 Latest YouTube Videos
-
-<!-- YOUTUBE:START -->
-- Nothing here yet... still under construction.
-<!-- YOUTUBE:END -->
-
----
-
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
@@ -68,6 +56,12 @@
 ➡️  [more blog posts...](https://isurusamarasekara.medium.com/)
 
 ---
+-->
+### 📺 Latest YouTube Videos
+
+<!-- YOUTUBE:START -->
+- Nothing here yet... still under construction.
+<!-- YOUTUBE:END -->
 
 [website]: https://www.isurusamarasekara.com
 [linkedin]: https://lk.linkedin.com/in/isurudananjayasamarasekara
