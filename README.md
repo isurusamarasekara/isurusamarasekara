@@ -45,6 +45,7 @@
 
 <br />
 -->
+
 ---
 ### 📕 Latest Blog Posts
 
@@ -55,6 +56,7 @@
 <!-- BLOG-POST-LIST:END -->
 
 ➡️  [more blog posts...](https://isurusamarasekara.medium.com/)
+
 ---
 ### 📺 Latest YouTube Videos
 
