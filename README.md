@@ -4,10 +4,11 @@
 
 ## I'm a developer 🧑🏻‍💻, a cautious cybersec 🕵🏻‍♂️, a scholar 👨🏻‍🎓 and an aspiring Traveller 🧳🏕⛰!!
 
-- 🏂🏻  I'm unequivocally trying do my own thing on travel vlog channel space and software development entrepreneurship,
-- 🧑🏻‍💻  Currently soaking in all IAM related knowledge and further focusing on microservices optimized IAM development,
-- 🥅  Too much goals 🎯, can't keep the count,
+- 🏂🏻  I'm unequivocally trying do my own thing on travel vlog channel space,
+- 🧑🏻‍💻  Currently soaking in IAM related knowledge with WSO2 Identity Server.
+<!--
 - ⚡  <strike>A secret/ not-so-secret fact: I love to play the piano 🎹 and guitar 🎸 🎼 </strike>.
+-->
 
 <br />
 
