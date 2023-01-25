@@ -5,7 +5,18 @@
 ## I'm a developer 🧑🏻‍💻, a cautious cybersec 🕵🏻‍♂️, a scholar 👨🏻‍🎓 and an aspiring Traveller 🧳🏕⛰!!
 
 - 🏂🏻  I'm unequivocally trying do my own thing on travel vlog channel space,
-- 🧑🏻‍💻  Currently soaking in IAM related knowledge with WSO2 Identity Server.
+  * Hope to get this done sooner than later,
+- 🧑🏻‍💻  Currently soaking in software related knowledge,
+  * 📘 IAM related knowledge with WSO2 Identity Server,
+  * 📙 Kubernetes,
+  * 📗 Machine Learning,
+- 🧑‍💼 Currently a software engineer at [**WSO2**](https://wso2.com),
+  * specializing in IAM domain via its CIAM product [Identity Server](https://is.docs.wso2.com/en/latest/),
+- 🖊️ Let's connect,
+  * 📥 [Email](#),
+  * 🤵‍♂️ [LinkedIn](https://lk.linkedin.com/in/isurudananjayasamarasekara),
+  * 📜 [Medium](https://isurusamarasekara.medium.com/).
+
 <!--
 - ⚡  <strike>A secret/ not-so-secret fact: I love to play the piano 🎹 and guitar 🎸 🎼 </strike>.
 -->
