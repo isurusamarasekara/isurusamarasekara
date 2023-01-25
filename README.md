@@ -31,7 +31,7 @@
 <img align="left" alt="Tensorflow" width="26px" src="https://img.icons8.com/color/48/000000/tensorflow.png" />
 
 <br /><br/>
-
+<!--
 ---
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=isurusamarasekara&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
@@ -42,7 +42,7 @@
 <br />
 
 ---
-
+-->
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
