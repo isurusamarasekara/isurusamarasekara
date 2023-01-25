@@ -1,6 +1,6 @@
 ## Hi there 🙌, I'm Isuru - aka [Karawalaya][website] 🙃
 
-[![Website](https://img.shields.io/website?label=isurusamarasekara.com&style=for-the-badge&url=https://isurusamarasekara.com)](https://www.isurusamarasekara.com/)
+[![Website](https://img.shields.io/website?label=isurusamarasekara.com&style=for-the-badge&url=https://isurusamarasekara.com)][website]
 
 ### I'm a developer 🧑🏻‍💻, a cautious cybersec 🕵🏻‍♂️, a scholar 👨🏻‍🎓 and an aspiring Traveller 🧳🏕⛰!!
 
@@ -14,8 +14,8 @@
   * specializing in IAM domain via its CIAM product [Identity Server](https://is.docs.wso2.com/en/latest/),
 - 🤙 Let's connect,
   * 📥 [Email](#),
-  * 🤵‍♂️ [LinkedIn](https://lk.linkedin.com/in/isurudananjayasamarasekara),
-  * 📜 [Medium](https://isurusamarasekara.medium.com/).
+  * 🤵‍♂️ [LinkedIn][linkedin.profile],
+  * 📜 [Medium][medium.blog].
 
 <!--
 - ⚡  <strike>A secret/ not-so-secret fact: I love to play the piano 🎹 and guitar 🎸 🎼 </strike>.
@@ -55,7 +55,7 @@
 - [Things to Know About Cross-Site Request Forgery](https://isurusamarasekara.medium.com/things-to-know-about-cross-site-request-forgery-fe043ad05c2f)
 <!-- BLOG-POST-LIST:END -->
 
-➡️  [more blog posts...](https://isurusamarasekara.medium.com/)
+➡️  [more blog posts...][medium.blog]
 
 ---
 ### 📺 Latest YouTube Videos
@@ -65,4 +65,5 @@
 <!-- YOUTUBE:END -->
 
 [website]: https://www.isurusamarasekara.com
-[linkedin]: https://lk.linkedin.com/in/isurudananjayasamarasekara
+[linkedin.profile]: https://lk.linkedin.com/in/isurudananjayasamarasekara
+[medium.blog]: https://isurusamarasekara.medium.com/
