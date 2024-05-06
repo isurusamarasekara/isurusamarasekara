@@ -10,7 +10,7 @@
   * 📘 IAM related knowledge with WSO2 Identity Server,
   * 📙 Kubernetes,
   * 📗 Machine Learning,
-- 🧑‍💼 Currently a software engineer at [**WSO2**][wso2],
+- 🧑‍💼 Currently a Senior software engineer/ DevOps/ SRE at [**WSO2**][wso2],
   * specializing in IAM domain via its CIAM product [Identity Server][wso2.is.docs],
 - 🤙 Let's connect,
   * 📥 [Email](#),
